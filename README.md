@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to RICHNITE COIN
 
 You can use the [editor on GitHub](https://github.com/rockstar0009/lolo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,9 +13,9 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 https://help.github.com/en
 
-# Header 1
-## Header 2
-### Header 3
+# RICHNITE IS FAST
+## RICHNITE IS SECURE
+### RICHNITE IS SAFE
 
 - Bulleted
 - List
