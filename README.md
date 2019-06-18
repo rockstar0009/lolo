@@ -4,33 +4,32 @@ You can use the [editor on GitHub](https://github.com/rockstar0009/lolo/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### RICHNITE
 
-# RICHNITE IS FAST
-## RICHNITE IS SECURE
-### RICHNITE IS SAFE
 
-**Richnite [RICH] is an ASIC resistant
-With Quick transactions, privacy and unlimited Blocksize make this coin perfect for paying anyone, anywhere.
+# RICHNITE
+
 
 ```markdown
-***Specs: 
+## Richnite [RICH] is an ASIC resistant
+**With Quick transactions, privacy and unlimited Blocksize make this coin perfect for paying anyone, anywhere.
+**"RICH" is the youngest coin to ever be listed on an exchange, We have builds for Windows, Apple, and Ubuntu Linux.
 
-***1. Blocktime      : 25 second blocktime (50 second blocktime after block 100000)
-***2. Speed Factor   : 23 emission 
-***3. Total supply   : 10 trillion
-***4. Max Blocksize  : Unlimited
-***5. Algorithm      : Cryptonight Turtle algorithm  
-***6. Mined RICH     : Unlock windows is 5 (might be raised)
+***Specifications of RICHNITE: 
+
+*** 1. Blocktime      : 25 second blocktime (50 second blocktime after block 100000)
+*** 2. Speed Factor   : 23 emission 
+*** 3. Total supply   : 10 trillion
+*** 4. Max Blocksize  : Unlimited
+*** 5. Algorithm      : Cryptonight Turtle algorithm  
+*** 6. Mined RICH     : Unlock windows is 5 (might be raised)
 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
+
+### JOIN DISCORD [link](https://discord.gg/m7rdznM)
+![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
