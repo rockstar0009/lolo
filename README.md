@@ -21,11 +21,11 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 ```
 ## IMPORTANT LINKS TO GET START :
 
-[Wallet Link](https://github.com/richnite-project/Richnite/releases)
+[WALLET LINKS](https://github.com/richnite-project/Richnite/releases)
 
 [POOL LINKS](http://pool.stx.nl/RICH/#)
 
-[Explore Blocks](http://be.stx.nl/RICH/)
+[EXPLORE BLOCKS](http://be.stx.nl/RICH/)
 
 ## Support or Contact
 
