@@ -1,7 +1,7 @@
 ## Welcome to RICHNITE COIN 
 
 
-![Image](https://media.discordapp.net/attachments/589819857235607552/590155310778417153/logo_wallet.png)
+![Image](https://cdn.discordapp.com/attachments/589835363091087385/589837465100222464/Picture100000000.png)
 
 **Richnite [RICH] is an ASIC resistant.
 With Quick transactions, privacy and unlimited Blocksize make this coin perfect for paying anyone, anywhere.
@@ -18,10 +18,17 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 *** 5. Algorithm      : Cryptonight Turtle algorithm  
 *** 6. Mined RICH     : Unlock windows is 5 (might be raised)
 
-
 ```
-FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
-### Support or Contact
-### [JOIN DISCORD](https://discord.gg/m7rdznM)
+## IMPORTANT LINKS TO GET START :
 
-![Image](https://media.discordapp.net/attachments/589819857235607552/590155310778417153/logo_wallet.png)
+[Wallet Link](https://github.com/richnite-project/Richnite/releases)
+
+[POOL LINKS](http://pool.stx.nl/RICH/#)
+
+[Explore Blocks](http://be.stx.nl/RICH/)
+
+## Support or Contact
+
+___FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
+
+### [JOIN DISCORD](https://discord.gg/m7rdznM)
