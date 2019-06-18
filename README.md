@@ -4,12 +4,14 @@ You can use the [editor on GitHub](https://github.com/rockstar0009/lolo/edit/mas
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### RICHNITE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Richnite [RICH] is an ASIC resistant
+With Quick transactions, privacy and unlimited Blocksize make this coin perfect for paying anyone, anywhere.**
 
 ```markdown
-Syntax highlighted code block
+
+https://help.github.com/en
 
 # Header 1
 ## Header 2
