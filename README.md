@@ -1,4 +1,4 @@
-## Welcome to RICHNITE COIN 
+### Welcome to RICHNITE COIN 
 
 
 ![Image](https://cdn.discordapp.com/attachments/589835363091087385/589837465100222464/Picture100000000.png)
@@ -8,7 +8,7 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 "RICH" is the youngest coin to ever be listed on an exchange, We have builds for Windows, Apple, and Ubuntu Linux.**
 
 
-##Specifications of RICHNITE: 
+## Specifications of RICHNITE: 
 ```markdown
 
 *** 1. Blocktime      : 25 second blocktime (50 second blocktime after block 100000)
@@ -29,6 +29,6 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ## Support or Contact
 
-___FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
+_____ FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
