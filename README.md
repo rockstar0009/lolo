@@ -11,12 +11,12 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 ## Specifications of RICHNITE: 
 ```markdown
 
-*** 1. Blocktime      : 25 second blocktime (50 second blocktime after block 100000)
-*** 2. Speed Factor   : 23 emission 
-*** 3. Total supply   : 10 trillion
-*** 4. Max Blocksize  : Unlimited
-*** 5. Algorithm      : Cryptonight Turtle algorithm  
-*** 6. Mined RICH     : Unlock windows is 5 (might be raised)
+***1. Blocktime      : 25 second blocktime (50 second blocktime after block 100000)
+***2. Speed Factor   : 23 emission 
+***3. Total supply   : 10 trillion
+***4. Max Blocksize  : Unlimited
+***5. Algorithm      : Cryptonight Turtle algorithm  
+***6. Mined RICH     : Unlock windows is 5 (might be raised)
 
 ```
 ## IMPORTANT LINKS TO GET START :
@@ -29,6 +29,6 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ## Support or Contact
 
-_____ FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
+***FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY
 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
