@@ -1,4 +1,4 @@
-### Welcome to RICHNITE COIN 
+## Welcome to RICHNITE COIN 
 
 
 ![Image](https://cdn.discordapp.com/attachments/589835363091087385/589837465100222464/Picture100000000.png)
