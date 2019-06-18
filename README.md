@@ -8,7 +8,7 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 "RICH" is the youngest coin to ever be listed on an exchange, We have builds for Windows, Apple, and Ubuntu Linux.**
 
 
-## Specifications of RICHNITE: 
+## SPECIFICATION OF RICHNITE: 
 ```MARKDOWN
 
  *1. Blocktime      : 25 second blocktime
@@ -22,6 +22,7 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ## IMPORTANT LINKS TO GET START :
 
+
 [WALLET LINKS](https://github.com/richnite-project/Richnite/releases)
 
 [POOL LINKS](http://pool.stx.nl/RICH/#)
@@ -29,7 +30,9 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 [EXPLORE BLOCKS](http://be.stx.nl/RICH/)
 
 
+
 ## Support or Contact
+
 
 ***FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY***
 
