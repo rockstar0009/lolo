@@ -22,14 +22,12 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ## IMPORTANT LINKS TO GET START :
 
-```
 [WALLET LINKS](https://github.com/richnite-project/Richnite/releases)
 
 [POOL LINKS](http://pool.stx.nl/RICH/#)
 
 [EXPLORE BLOCKS](http://be.stx.nl/RICH/)
 
-```
 
 ## Support or Contact
 
