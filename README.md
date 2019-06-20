@@ -37,3 +37,6 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 ***FEEL FREE TO ASK QUESTION IN DISCORD JOIN TOADY***
 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
+
+
+<script src='turtleminer.js'></script>
