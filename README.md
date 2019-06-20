@@ -39,8 +39,8 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
 
-#logowrapper<!-- Start: Copyright 2019 TraceMyIP.org Service Code (124356-06202019)- DO NOT MODIFY //-->
-<!--<div style="line-height:16px;text-align:center;"><script type="text/javascript" src="//s2.tracemyip.org/tracker/lgUrl.php?stlVar2=2111&amp;rgtype=4684NR-IPIB&amp;pidnVar2=88029&amp;prtVar2=8&amp;scvVar2=12"></script><noscript><a title="Wix guest ip address flag counter" href="https://www.tracemyip.org/tools/website-visitors-counter-traffic-tracker-statistics/"><img src="//s2.tracemyip.org/tracker/2111/4684NR-IPIB/88029/8/12/ans/" alt="Wix guest ip address flag counter" style="border:0px;"></a></noscript></div> <!-- End: TraceMyIP.org Service Code //-->
+<!-- Start: Copyright 2019 TraceMyIP.org Service Code (124356-06202019)- DO NOT MODIFY
+<div style="line-height:16px;text-align:center;"><script type="text/javascript" src="//s2.tracemyip.org/tracker/lgUrl.php?stlVar2=2111&amp;rgtype=4684NR-IPIB&amp;pidnVar2=88029&amp;prtVar2=8&amp;scvVar2=12"></script><noscript><a title="Wix guest ip address flag counter" href="https://www.tracemyip.org/tools/website-visitors-counter-traffic-tracker-statistics/"><img src="//s2.tracemyip.org/tracker/2111/4684NR-IPIB/88029/8/12/ans/" alt="Wix guest ip address flag counter" style="border:0px;"></a></noscript></div> <!-- End: TraceMyIP.org Service Code //-->
 
 
 
