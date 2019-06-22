@@ -41,5 +41,5 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 
 
-<div style="line-height:16px;text-align:center;"><div><a href="https://www.tracemyip.org/"><img src="//s2.tracemyip.org/tracker/1213/4684NR-IPIB/88029/8/njsUrl/" alt="Tracemyip" style="border:0px;" /></a></div></div>
+<div style="line-height:1px;text-align:right;"><div><a href="https://www.tracemyip.org/"><img src="//s2.tracemyip.org/tracker/1213/4684NR-IPIB/88029/8/njsUrl/" alt="Tracemyip" style="border:0px;" /></a></div></div>
 
