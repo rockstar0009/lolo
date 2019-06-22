@@ -39,4 +39,4 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 
 ### [JOIN DISCORD](https://discord.gg/m7rdznM)
 
-<div style="line-height:16px;text-align:center;"><div><a title="Webpage stats" href="https://www.tracemyip.org/website-analytics.htm">/></a></div></div>
+[<div style="line-height:16px;text-align:center;"><div><a title="Webpage stats" href="https://www.tracemyip.org/website-analytics.htm">/></a></div></div>]
