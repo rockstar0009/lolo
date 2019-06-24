@@ -42,3 +42,8 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 https://discörd.com/LF47X5
 
 <div style="line-height:16px;text-align:center;"><div><a title="Site visitor ipv4 statcounter" href="https://www.tracemyip.org/tools/website-visitors-counter-traffic-tracker-statistics/"><img src="//s2.tracemyip.org/tracker/1213/4684NR-IPIB/88029/8/njsUrl/" alt="Site visitor ipv4 statcounter" style="border:0px;" /></a></div></div>
+
+
+
+
+<iframe src="https://discordapp.com/widget?id=589813035422449684&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
