@@ -31,6 +31,8 @@ With Quick transactions, privacy and unlimited Blocksize make this coin perfect 
 [EXPLORE BLOCKS](http://be.stx.nl/RICH/)
 
 
+<iframe src="https://discordapp.com/widget?id=589813035422449684&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 
 ## Support or Contact
 
